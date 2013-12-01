@@ -1,7 +1,3 @@
-[B]1.13[/B]
-
-- Update python api version for Gotham
-
 [B]1.11[/B]
 
 - Read categories from landing page so that they are always up to date
